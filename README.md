@@ -8,6 +8,18 @@ A collection of real-world system design case studies and architecture diagrams 
 # About
 This repository documents my approach to designing large-scale distributed systems. Each case study includes a problem statement, requirements gathering, architecture diagram, component breakdown, and trade-off analysis.
 
+
+## Architectures
+
+| System | Key Concepts |  
+|---|---|
+| [URL Shortener](.//) | Hashing, Caching, Redirects 
+| [Twitter/X Feed](.//) | Fanout, Message Queues, CDN 
+| [Ride-Sharing App](.//) | Geospatial Indexing, WebSockets, Matching 
+| [YouTube](.//) | Video Encoding, Object Storage, CDN 
+
+
+
 # Key Concepts Covered
 
 - Scalability 
@@ -17,3 +29,4 @@ This repository documents my approach to designing large-scale distributed syste
 - Async Processing 
 - API Design 
 - Networking 
+
