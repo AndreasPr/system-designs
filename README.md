@@ -17,6 +17,7 @@ This repository documents my approach to designing large-scale distributed syste
 | [Twitter/X Feed](.//) | Fanout, Message Queues, CDN 
 | [Ride-Sharing App](.//) | Geospatial Indexing, WebSockets, Matching 
 | [YouTube](.//) | Video Encoding, Object Storage, CDN 
+| [WhatsApp](.//) | Caching, Websockets, Redis Pub/Sub, Object Storage 
 
 
 
