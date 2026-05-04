@@ -18,7 +18,7 @@ This repository documents my approach to designing large-scale distributed syste
 | [Ride-Sharing App](.//) | Geospatial Indexing, WebSockets, Matching 
 | [YouTube](.//) | Video Encoding, Object Storage, CDN 
 | [WhatsApp](.//) | Caching, Websockets, Redis Pub/Sub, Object Storage 
-
+| [Ad Click Aggregator](.//) | OLAP, Caching, Object Storage, Spark
 
 
 # Key Concepts Covered
