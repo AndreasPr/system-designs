@@ -17,6 +17,7 @@ This repository documents my approach to designing large-scale distributed syste
 | [Twitter/X Feed](.//) | Fanout, Message Queues, CDN 
 | [Ride-Sharing App](.//) | Geospatial Indexing, WebSockets, Matching 
 | [YouTube](.//) | Video Encoding, Object Storage, CDN 
+| [Youtube Top K](.//) | Kafka, Flink, Caching, Tumbling Windows
 | [WhatsApp](.//) | Caching, Websockets, Redis Pub/Sub, Object Storage 
 | [Ad Click Aggregator](.//) | OLAP, Caching, Object Storage, Spark
 
