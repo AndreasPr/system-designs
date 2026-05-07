@@ -20,6 +20,7 @@ This repository documents my approach to designing large-scale distributed syste
 | [Youtube Top K](.//) | Kafka, Flink, Caching, Tumbling Windows
 | [WhatsApp](.//) | Caching, Websockets, Redis Pub/Sub, Object Storage 
 | [Ad Click Aggregator](.//) | OLAP, Caching, Object Storage, Spark
+| [Facebook Live Comments](.//) | SRE, JWT, Redis Pub/Sub, CDN
 
 
 # Key Concepts Covered
